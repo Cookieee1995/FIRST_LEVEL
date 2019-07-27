@@ -1,2 +1,2 @@
 # FIRST_LEVEL
-python初学
+# python初学
